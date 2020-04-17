@@ -7,3 +7,5 @@ you can also follow the tensorflow video made by one googler which is made avail
 It mainly focuses on the implementation part of the CNN.
 If you are into the application part of the CNN then just for it.
 
+If you want to practise the application part of the CNN then go for the colab given by google or jupyter notebook.
+
