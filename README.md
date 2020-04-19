@@ -9,3 +9,5 @@ If you are into the application part of the CNN then just for it.
 
 If you want to practise the application part of the CNN then go for the colab given by google or jupyter notebook.
 
+once done with the CNN go for the YOLO v3 for better understanding.
+
