@@ -12,3 +12,7 @@ If you want to practise the application part of the CNN then go for the colab gi
 once done with the CNN go for the YOLO v3 for better understanding.
 
 Follow the coursera standford Machine learning course for getting the basic knowledge.
+
+In the coming year it will be among the most developed technology.
+
+
