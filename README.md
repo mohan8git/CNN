@@ -16,4 +16,4 @@ Follow the coursera standford Machine learning course for getting the basic know
 In the coming year it will be among the most developed technology.
 ------------------------------------------------------------------------------------------------------
 
-
+Start with the basic best way to learn about the CNN is through the deeplearning conent available on the official site.
